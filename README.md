@@ -11,3 +11,11 @@ High Score System: An integrated scoring mechanic that tracks your best runs, pu
 One-Tap Controls: Simple, intuitive touch controls—perfect for mobile gaming on the go.
 
 Minimalist 3D Design: Clean visuals and smooth camera follow logic for an immersive experience.
+
+# 🛠️ Technical Specifications
+Engine: Unity 2022.3.46f1 (LTS)
+
+Platform: Android
+
+Language: C#
+
