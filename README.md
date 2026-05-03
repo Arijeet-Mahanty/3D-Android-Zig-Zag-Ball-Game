@@ -19,3 +19,5 @@ Platform: Android
 
 Language: C#
 
+# 📂 Repository Structure
+ZigZag_Ball_Build.apk: The ready-to-install game file for Android devices.
