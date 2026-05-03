@@ -21,3 +21,16 @@ Language: C#
 
 # 📂 Repository Structure
 ZigZag_Ball_Build.apk: The ready-to-install game file for Android devices.
+
+# 📲 How to Install (Android)
+You can find the executable game file directly in this repository for quick testing.
+
+Locate the ZigZag_Ball_Build.apk file in the file list above.
+
+Click on the file name and select Download.
+
+Transfer the .apk to your Android device.
+
+Open the file on your device to install (ensure "Install from Unknown Sources" is enabled in your settings).
+
+Launch and play!
